@@ -14,4 +14,4 @@ Predict student addiction levels (Low, Medium, High) using machine learning.
 
 ## Files
 - Task1_Social_Media_Addiction_Prediction.ipynb
-- Report.pdf
+- TASK 1 INTERNSHIP ALFIDO SHORT REPORT.docx
